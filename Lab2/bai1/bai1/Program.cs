@@ -51,9 +51,30 @@ namespace bai1
             
             SortedList  sortedList = new SortedList();
             sortedList.Add("First", 1);
-            sortedList.Add("key", 2);
+            sortedList.Add("key 2", 2);
             sortedList.Add("third", "value 3");
-            sortedList.Add(4, "value 3");
+            sortedList.Add("Third", "value 3");
+            bool haskey = sortedList.Contains("T");
+            bool hasvalue = sortedList.Contains("T");
+            SortedList sortedlist2 = (SortedList) sortedList.Clone();
+            sortedlist2.Clear();
+            Stack stack = new Stack();
+            stack.Push("Item01");
+            stack.Push("Item02");
+            stack.Push("Item03");
+            stack.Push("Item04");
+            stack.Push("Item05");
+            stack.Pop();
+
+            Queue queue = new Queue();
+            queue.Enqueue("Item 01");
+            queue.Enqueue("Item 02");
+            queue.Enqueue("Item 03");
+            queue.Enqueue("Item 04");
+            queue.Enqueue("Item 05");
+            var itemqueue =queue.Dequeue();
+            
+
             Console.ReadLine();
         }
     }

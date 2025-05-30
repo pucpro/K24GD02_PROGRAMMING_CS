@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Lab2\\bai1\\bai1\\Program.cs",
               "RelativeDocumentMoniker": "bai1\\Program.cs",
-              "ToolTip": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Lab2\\bai1\\bai1\\Program.cs",
-              "RelativeToolTip": "bai1\\Program.cs",
-              "ViewState": "AgIAABUAAACAkxTRDoIAwDEAAAAeAAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Lab2\\bai1\\bai1\\Program.cs*",
+              "RelativeToolTip": "bai1\\Program.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwEkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T11:48:28.127Z",
               "EditorCaption": ""
