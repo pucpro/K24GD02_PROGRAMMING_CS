@@ -1,0 +1,7 @@
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\bin\Debug\baitap2.exe.config
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\bin\Debug\baitap2.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\bin\Debug\baitap2.pdb
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\obj\Debug\baitap2.csproj.AssemblyReference.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\obj\Debug\baitap2.csproj.CoreCompileInputs.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\obj\Debug\baitap2.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Lab2\baitap2\baitap2\obj\Debug\baitap2.pdb

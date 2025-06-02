@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFA3BD3-203F-4147-901D-0AC0A5260FD8}|bai3\\bai3.csproj|d:\\github\\k24gd02_programming_cs\\baitaptrenlop\\baitap3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFA3BD3-203F-4147-901D-0AC0A5260FD8}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap3\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap3\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:59:58.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
