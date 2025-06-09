@@ -1,0 +1,7 @@
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\bin\Debug\Baitap1.exe.config
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\bin\Debug\Baitap1.exe
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\bin\Debug\Baitap1.pdb
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\obj\Debug\Baitap1.csproj.AssemblyReference.cache
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\obj\Debug\Baitap1.csproj.CoreCompileInputs.cache
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\obj\Debug\Baitap1.exe
+D:\Hoc tap\NgonNguLapTrinhGame\Baitap1\Baitap1\obj\Debug\Baitap1.pdb
