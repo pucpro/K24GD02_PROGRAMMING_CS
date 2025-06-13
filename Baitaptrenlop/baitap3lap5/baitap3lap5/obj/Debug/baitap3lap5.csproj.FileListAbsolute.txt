@@ -1,0 +1,7 @@
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\bin\Debug\baitap3lap5.exe.config
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\bin\Debug\baitap3lap5.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\bin\Debug\baitap3lap5.pdb
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\obj\Debug\baitap3lap5.csproj.AssemblyReference.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\obj\Debug\baitap3lap5.csproj.CoreCompileInputs.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\obj\Debug\baitap3lap5.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baitap3lap5\baitap3lap5\obj\Debug\baitap3lap5.pdb

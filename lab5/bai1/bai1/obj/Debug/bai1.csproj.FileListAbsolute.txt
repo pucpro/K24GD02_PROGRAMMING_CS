@@ -1,0 +1,7 @@
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\bin\Debug\bai1.exe.config
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\bin\Debug\bai1.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\bin\Debug\bai1.pdb
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\obj\Debug\bai1.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\lab3\bai1\bai1\obj\Debug\bai1.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\bin\Debug\baptap4lap5.exe.config
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\bin\Debug\baptap4lap5.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\bin\Debug\baptap4lap5.pdb
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\obj\Debug\baptap4lap5.csproj.AssemblyReference.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\obj\Debug\baptap4lap5.csproj.CoreCompileInputs.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\obj\Debug\baptap4lap5.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\baptap4lap5\baptap4lap5\obj\Debug\baptap4lap5.pdb

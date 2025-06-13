@@ -1,0 +1,7 @@
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\obj\Debug\vdlap3.csproj.AssemblyReference.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\obj\Debug\vdlap3.csproj.CoreCompileInputs.cache
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\bin\Debug\vdlap3.exe.config
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\bin\Debug\vdlap3.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\bin\Debug\vdlap3.pdb
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\obj\Debug\vdlap3.exe
+D:\GitHub\K24GD02_PROGRAMMING_CS\Baitaptrenlop\vdlap3\vdlap3\obj\Debug\vdlap3.pdb
