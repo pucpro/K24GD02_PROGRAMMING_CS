@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap1lap5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC802A0-8CA1-4FCB-8DC5-98197366CE9E}|baitap1lap5\\baitap1lap5.csproj|d:\\github\\k24gd02_programming_cs\\baitaptrenlop\\baitap1lap5\\baitap1lap5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC802A0-8CA1-4FCB-8DC5-98197366CE9E}|baitap1lap5\\baitap1lap5.csproj|solutionrelative:baitap1lap5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap1lap5\\baitap1lap5\\Program.cs",
+              "RelativeDocumentMoniker": "baitap1lap5\\Program.cs",
+              "ToolTip": "D:\\GitHub\\K24GD02_PROGRAMMING_CS\\Baitaptrenlop\\baitap1lap5\\baitap1lap5\\Program.cs",
+              "RelativeToolTip": "baitap1lap5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:39:56.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
